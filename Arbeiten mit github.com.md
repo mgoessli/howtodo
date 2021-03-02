@@ -1,4 +1,4 @@
-Arbeiten mit github.com
+# Arbeiten mit github.com
 
 Vorrausetzung
 Ein Account auf github.com muss angelegt sein.
@@ -26,7 +26,7 @@ git clone git@github:<USER>/<REPO>
 
 Es gibt jetzt ein gleichnamiges Verzeichnis, in das man wechselt um den Code zu ändern.
 
-Wenn die Änderungen fertig sind, werde diese zurück nach ithub.com gebracht.
+Wenn die Änderungen fertig sind, werde diese zurück nach github.com gebracht.
 
 ```
 git add .
